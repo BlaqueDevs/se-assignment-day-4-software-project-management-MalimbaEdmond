@@ -36,7 +36,7 @@ Predictable: Well-suited for projects with clearly defined requirements and a fi
 Detailed Planning: Requires extensive upfront planning and documentation.
 Less Flexible: Changes can be costly and time-consuming to implement once the project is underway.
 Advantages Waterfall Methodology:
-Clear project structure and timeline.
+Clear project structure and timeline. 
 Good for projects with well-defined requirements.
 Easy to track progress.
 Disadvantages Waterfall Methodology:
